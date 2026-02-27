@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.12)  12 FEB 2026 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.12)  14 FEB 2026 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/noteb/Documents/Programação/mlds_study/LaTeX/main.tex
-(c:/Users/noteb/Documents/Programação/mlds_study/LaTeX/main.tex
+**"c:/Users/noteb/Documents/Feudo/feudo/LaTeX/ML Basic/main.tex"
+(c:/Users/noteb/Documents/Feudo/feudo/LaTeX/ML Basic/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (tau-class/tau.cls
@@ -1836,14 +1836,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  72072 strings out of 467866
- 1575885 string characters out of 5418325
- 3004219 words of memory out of 5000000
+ 1575845 string characters out of 5418325
+ 3004222 words of memory out of 5000000
  99742 multiletter control sequences out of 15000+600000
  877968 words of font info for 333 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 137i,12n,143p,1057b,2361s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 137i,12n,143p,1055b,2361s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\noteb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/public/stix2-type1/STIX2Math.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/public/stix2-type1/STIX2Text-Bold.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/public/stix2-type1/STIX2Text-BoldItalic.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/public/stix2-type1/STIX2Text-Italic.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/public/stix2-type1/STIX2Text-Regular.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt8.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/noteb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (3 pages, 1091796 bytes).
+Output written on main.pdf (3 pages, 1091783 bytes).
 PDF statistics:
  280 PDF objects out of 1000 (max. 8388607)
  68 named destinations out of 1000 (max. 500000)
